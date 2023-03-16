@@ -7,15 +7,6 @@ The purpose of building this project was to familiarize myself with the html and
 After cleaning up this file I learned how to specify semantic elements in an index.html file and how to organize the corresponding style.css file so that it flows well with the html code.
 
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 Project does not require installation. Only requires the website link. (see Usage section below)
@@ -33,7 +24,4 @@ Clicking "Online Reputation Management" will bring you to the corresponding sect
     ```
 
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
