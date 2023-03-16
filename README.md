@@ -29,7 +29,7 @@ Link to webpage: https://dhclarke99.github.io/horiseon-accessibility-refactor/
 Clicking "Online Reputation Management" will bring you to the corresponding section.
 
     ```md
-    ![screenshot of hyperlinks](assets/images/Screen Shot 2023-03-15 at 11.28.54 PM.png)
+    ![screenshot of hyperlinks](./assets/images/Screen Shot 2023-03-15 at 11.28.54 PM.png)
     ```
 
 
