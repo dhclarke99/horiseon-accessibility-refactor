@@ -13,15 +13,10 @@ Project does not require installation. Only requires the website link. (see Usag
 
 ## Usage
 
-Once you click the link below and open the webpage, you can click any of the headers on the top right to navigate to the corresponding section in the page. See screenshot below.
+Once you open the webpage with the [wepbage link](https://dhclarke99.github.io/horiseon-accessibility-refactor/), you can click any of the headers on the top right to navigate to the corresponding section in the page. See screenshot below.
+   
+![Screenshot of hyperlinks.](./assets/images/Screen%20Shot%202023-03-15%20at%2011.28.54%20PM.png)
 
-Link to webpage: https://dhclarke99.github.io/horiseon-accessibility-refactor/
-
-Clicking "Online Reputation Management" will bring you to the corresponding section.
-
-    ```md
-    ![screenshot of hyperlinks](./assets/images/Screen Shot 2023-03-15 at 11.28.54 PM.png)
-    ```
-
+*Clicking "Online Reputation Management" will bring you to the corresponding section.
 
 
